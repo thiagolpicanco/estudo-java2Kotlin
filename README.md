@@ -8,3 +8,4 @@
   - O desenvolvimento é mais Agil?
   - Integra tranquilamente com o ecossistema Java?
   - Facil de testar?
+  - Qual o tamanho da curva de aprendizado para um desenvolvedor Java?
