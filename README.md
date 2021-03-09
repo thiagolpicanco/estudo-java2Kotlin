@@ -1,6 +1,6 @@
 # Repositorio criado para estudos com a Linguagem Java
 
-## Tentarei fazer sempre um comparativo entre Java e Kotlin
+## Tentarei fazer sempre um comparativo entre Java e Kotlin utilizando SpringBoot
 
 * Questões a serem respondidas:
   - Kotlin pode ser usado tranquilamente como uma linguagem de backend?
